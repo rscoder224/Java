@@ -7,7 +7,7 @@
 import java.lang.*;
 import java.util.Scanner;
 
-public class challenge_10{
+public class challenge_12{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Principle =" + " ");
